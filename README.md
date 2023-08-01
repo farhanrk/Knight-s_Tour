@@ -1,4 +1,3 @@
-###
 <h1 align="center">Knight's Tour</h1>
 A Knight's Tour is a sequence of moves by a knight on a chessboard such that the knight visits every square exactly once. <br><br>
 
